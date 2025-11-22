@@ -13,4 +13,21 @@
     <maven.compiler.target>21</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>au.com.dius.pact.consumer</groupId>
+      <artifactId>junit5</artifactId>
+      <version>4.6.18</version>
+      <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>au.com.dius.pact.provider</groupId>
+      <artifactId>junit5</artifactId>
+      <version>4.6.18</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
 </project>
