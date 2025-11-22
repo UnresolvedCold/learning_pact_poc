@@ -1,4 +1,4 @@
-package code.shubham.kitchenui;
+package codes.shubham.kitchenui;
 
 import au.com.dius.pact.consumer.MockServer;
 import au.com.dius.pact.consumer.dsl.PactBuilder;
